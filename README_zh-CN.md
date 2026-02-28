@@ -113,11 +113,10 @@ flowchart LR
 
 你可以直接在此处下载编译好的应用，用户可以直接进行安装并完成自动化配置，直接使用，方便非技术用户快速上手。
 
-**安装包下载地址：**  
-https://pan.baidu.com/s/1MmTIq3PHgijG0lgXZuRCKQ?pwd=pc33 提取码: pc33
+**安装包下载地址：**
 
-* **Mac 电脑 M 芯片下载：** JARVIS-1.0.0-arm64.dmg  
-* **Mac 电脑 Intel 芯片下载：** JARVIS-1.0.0-x64.dmg
+* **Mac M 芯片：** [JARVIS-1.0.0-arm64.dmg](https://jarvis-clawlink.oss-cn-beijing.aliyuncs.com/JARVIS-1.0.0-arm64.dmg)
+* **Mac Intel 芯片：** [JARVIS-1.0.0-x64.dmg](https://jarvis-clawlink.oss-cn-beijing.aliyuncs.com/JARVIS-1.0.0-x64.dmg)
 
 安装运行，应该可以在程序中看到 Jarvis-ClawLink 的交互入口，并开始语音对话，控制本地的openclaw。
 

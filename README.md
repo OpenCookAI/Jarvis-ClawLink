@@ -115,11 +115,10 @@ flowchart LR
 
 You can directly download the compiled application here. Users can install and complete automated configuration directly, making it convenient for non-technical users.
 
-**Download Link:**  
-https://pan.baidu.com/s/1MmTIq3PHgijG0lgXZuRCKQ?pwd=pc33 Password: pc33
+**Download Link:**
 
-* **Mac (Apple Silicon):** JARVIS-1.0.0-arm64.dmg  
-* **Mac (Intel):** JARVIS-1.0.0-x64.dmg
+* **Mac (M 芯片 / Apple Silicon):** [JARVIS-1.0.0-arm64.dmg](https://jarvis-clawlink.oss-cn-beijing.aliyuncs.com/JARVIS-1.0.0-arm64.dmg)
+* **Mac (Intel 芯片):** [JARVIS-1.0.0-x64.dmg](https://jarvis-clawlink.oss-cn-beijing.aliyuncs.com/JARVIS-1.0.0-x64.dmg)
 
 After installation, you should see the Jarvis-ClawLink interaction interface in the application and can start voice conversations to control your local OpenClaw.
 
